@@ -1,0 +1,11 @@
+
+Relatorio.
+
+Pronto, esse é meu trabalho final de FUP, fiz um sistema de controle
+de estoque simples onde realizei a alocação de dois vetores de estrutura e
+armazenamento em arquivos de texto. Tambem foi feita a compilação de bibliotecas
+semparadas (cliente.h e produto.h) gerando assim um executavel para todo o sistema.
+
+Espero que goste, 
+Att Davi.
+
